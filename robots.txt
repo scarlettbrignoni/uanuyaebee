@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://otheeboola.zhenjie.wang/sitemap.xml
